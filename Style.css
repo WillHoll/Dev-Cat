@@ -6,7 +6,7 @@ header{
     height: 80px;
     border-width: 5px;
     border-color:saddlebrown;
-    border-style: dashed;
+    border-style: groove groove dashed groove;
 }
 h1 {
     text-align: center;
